@@ -25,6 +25,16 @@ namespace Git_3
 
                     Console.WriteLine("\n x * y = " + z);
 
+                    if (z <= 0) Console.WriteLine(" Nav izskaitlots z!");
+                    else
+                    {
+                        for (int r = 1; r <= z; r++)
+                        {
+                            Console.WriteLine(" " + r + ". *");
+                        }
+                    }
+
+
 
                 }
                 catch (Exception error)
