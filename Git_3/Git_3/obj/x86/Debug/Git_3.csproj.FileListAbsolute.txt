@@ -2,3 +2,4 @@ D:\Git_1uzd\Git_homework_3\Git_3\Git_3\bin\Debug\Git_3.exe
 D:\Git_1uzd\Git_homework_3\Git_3\Git_3\bin\Debug\Git_3.pdb
 D:\Git_1uzd\Git_homework_3\Git_3\Git_3\obj\x86\Debug\Git_3.exe
 D:\Git_1uzd\Git_homework_3\Git_3\Git_3\obj\x86\Debug\Git_3.pdb
+D:\Git_1uzd\Git_homework_3\Git_3\Git_3\obj\x86\Debug\Git_3.csprojResolveAssemblyReference.cache
